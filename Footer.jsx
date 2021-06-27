@@ -4,7 +4,7 @@ import React from "react";
 function Footer(){
   return (
     <footer>
-      <p>Copyright by ShapeAI @ {new Date().getFullYear()}AC</p>
+      <p>Copyright by ShapeAI @ {new Date().getFullYear()}</p>
     </footer>
   );
 }
